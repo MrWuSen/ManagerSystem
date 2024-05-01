@@ -1,0 +1,2 @@
+{"endpoint":["resource A","resource B","resource C"],"role":"user","userId":"123456","userLineNo":1}
+{"endpoint":["resource A","resource B","resource C","resource D"],"role":"user","userId":"123457","userLineNo":2}

@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  jackson:
+    serialization:
+      FAIL_ON_EMPTY_BEANS: false
+
+loggingFilter:
+  enable: true
